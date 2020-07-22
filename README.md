@@ -1,7 +1,7 @@
 # Repository with various graph algorithms implemented in python
 
 ### Requirements -
-  - 'networx' => can be installed using 'pip install networkx' or 'pip3 install networkx'
+  - ' networx ' => can be installed using 'pip install networkx' or 'pip3 install networkx'
   
 ### Usage -
   - '''python3 [script name] {number of nodes} {probabbility of edge creation}
