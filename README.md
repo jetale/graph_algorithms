@@ -4,4 +4,4 @@
 
 ### Algorithms list -
 
-- [ ] Breadth First Search
+- [x] Breadth First Search
